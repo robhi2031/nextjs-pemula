@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Nama Produk 1 Update",
+      "price": 1000
+    },
+    {
+      "id": 2,
+      "name": "Nama Produk 2",
+      "price": 2000
+    },
+    {
+      "id": 3,
+      "name": "Nama Produk 3",
+      "price": 3000
+    },
+    {
+      "id": 4,
+      "name": "Nama Produk 4",
+      "price": 4000
+    },
+    {
+      "id": 5,
+      "name": "Nama Produk 5",
+      "price": 5000
+    },
+    {
+      "id": 6,
+      "name": "Nama Produk 6",
+      "price": 6000
+    },
+    {
+      "id": 7,
+      "name": "Nama Produk 7",
+      "price": 7000
+    },
+    {
+      "id": 8,
+      "name": "Nama Produk 8",
+      "price": 8000
+    },
+    {
+      "id": 9,
+      "name": "Nama Produk 9",
+      "price": 9000
+    },
+    {
+      "id": 10,
+      "name": "Nama Produk 10 Updated",
+      "price": 10000
+    }
+  ]
+}
